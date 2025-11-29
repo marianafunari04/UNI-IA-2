@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1TMXlnYPn6nksEI6fliSIzQ7OYwhbSA6Y
 
+Vercel: https://uniia2.vercel.app/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
